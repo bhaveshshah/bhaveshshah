@@ -1,22 +1,19 @@
 
 ### Hello 👋, I'm Bhavesh Shah
+[![Linkedin: Bhavesh Shah](https://img.shields.io/badge/-Bhavesh_Shah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhaveshshah88/)](https://www.linkedin.com/in/bhaveshshah88/)
 
-Senior Frontend Developer @ 
-<p><em>Senior Software Engineer at</em> <a href="https://tripactions.com/">Comtravo / TripActions
-</a></p>
+<p>Senior Software Engineer @ <a href="https://tripactions.com/">Comtravo / TripActions</a></p>
 
 #### I have 10+ years of Experience in Software Development including 6+ years in FE technologies, experience working on various medium to large scale application. Ownership is the thing which excites me, staying up-to-date with the latest web development technologies. Experience with automated build and deploy processes, take full responsible for testing, deployment, monitoring and debugging of our code, code ownership and CR’s and work closely with product owners, UX, and development teams.
 
 #
 
-I’m currently mastering React<img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+✨ I’m currently mastering React<img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 
-I am looking to collabrate to few open source projects
+✨ I am looking to collabrate to few open source projects
 
-Currently looking out for a change if you would like to hire me we can have a quick discussion, you can book a slot to discuss more about my skills here
+✨ Currently looking out for a change if you would like to hire me we can have a quick discussion, you can book a slot to discuss more about my skills here
 <a href="https://calendly.com/anmol098/30min" target="_blank"> Calendy </a>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/bhaveshshah88/)
 
 <br/><br/>
 
