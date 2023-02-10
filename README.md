@@ -1,49 +1,41 @@
 
-### Hello 👋, This is Bhavesh Shah
+### Hello 👋, I'm Bhavesh Shah
+
+Senior Frontend Developer @ 
+<p><em>Senior Software Engineer at</em> <a href="https://tripactions.com/">Comtravo / TripActions
+</a></p>
+
 #### I have 10+ years of Experience in Software Development including 6+ years in FE technologies, experience working on various medium to large scale application. Ownership is the thing which excites me, staying up-to-date with the latest web development technologies. Experience with automated build and deploy processes, take full responsible for testing, deployment, monitoring and debugging of our code, code ownership and CR’s and work closely with product owners, UX, and development teams.
 
 #
 
-Here are some of my most relevant qualifications and accomplishments:
+I’m currently mastering React<img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 
-```• Experience working on large web application using Angular 12, Typescript, unit test, component library```
+I am looking to collabrate to few open source projects
 
-```• Collaborating with UX designers, Product owner, Back End Developers and other team member for ensuring coherence between all parties```
+Currently looking out for a change if you would like to hire me we can have a quick discussion, you can book a slot to discuss more about my skills here
+<a href="https://calendly.com/anmol098/30min" target="_blank"> Calendy </a>
 
-```• CRs, unit testing and E2E is most important part of my development for successful delivery of the feature/product```
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/bhaveshshah88/)
 
-```• Create reusable common component library using CSS and story book, which is used in multiple project across company```
+<br/><br/>
 
-```• Write maintainable, scalable, responsive, and cross-browser code```
+Skills & Experience.
 
-```• Updated and streamlined existing code to improve site performance```
-
-```• Good experienced in doing RCA for any bug or problem```
-
-```• Follow CI/CD model using Jenkins & Docker for different builds and planning```
-
-```• Technically help peers to make them understand code base, new functionality or solving problems```
-
-```• Like taking up the ownership of the product or module and make sure we are delivering the right thing on every phases of life cycle or sprint```
-
-```• Developed and maintained the email templates using ReactJS```
-
-```• Thirst for learning new technologies and stay up-to-date on industry trends and advancements.```
-
-```• Proficient in verbal and written communication in English```
-
-```• Won first price during the hackathon held in Mumbai, India by Amazon with 50+ developers```
-
-###Skills & Experience.
-
-🖥 Angular | RxJS | NestJS | TypeScript | HTML | CSS | JavaScript
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-🔭 I’m currently looking out for a change. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bhaveshshah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/bhaveshshah88/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshshah)](https://github.com/bhaveshshah/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshshah&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshshah&show_icons=true&count_private=true)
+
