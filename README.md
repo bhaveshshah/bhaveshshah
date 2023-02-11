@@ -32,7 +32,6 @@ Skills & Experience.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshshah)](https://github.com/bhaveshshah/github-readme-stats)
+[![Top Langs](https://github-readme-stats-tan-rho.vercel.app/api/top-langs/?username=bhaveshshah)](https://github.com/bhaveshshah/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshshah&show_icons=true&count_private=true)
-
+![GitHub stats](https://github-readme-stats-tan-rho.vercel.app/api?username=bhaveshshah&show_icons=true&count_private=true)
