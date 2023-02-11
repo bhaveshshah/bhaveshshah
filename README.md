@@ -13,7 +13,7 @@
 ✨ I am looking to collabrate to few open source projects
 
 ✨ Currently looking out for a change if you would like to hire me we can have a quick discussion, you can book a slot to discuss more about my skills here
-<a href="https://calendly.com/anmol098/30min" target="_blank"> Calendy </a>
+<a href="https://calendly.com/bhaveshshah88/30min" target="_blank"> Calendy </a>
 
 <br/><br/>
 
