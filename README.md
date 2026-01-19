@@ -2,7 +2,7 @@
 ### Hello 👋, I'm Bhavesh Shah
 [![Linkedin: Bhavesh Shah](https://img.shields.io/badge/-Bhavesh_Shah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhaveshshah88/)](https://www.linkedin.com/in/bhaveshshah88/)
 
-<p>Senior Software Engineer @ <a href="https://tripactions.com/">Eurofunk - Actively looking for new role, open for relocation</a></p>
+<p>Senior Frontend Developer | Angular & React Expert | Micro-Frontend Architecture | Open to New Opportunities</p>
 
 #### Frontend Developer with 10+ years of experience building scalable SPAs using Angular, React, and modern web technologies. Proven track record in leading teams, improving performance by up to 40% and test coverage up to 90%, and delivering robust solutions through CI/CD pipelines.
 
