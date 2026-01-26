@@ -80,11 +80,11 @@ Senior Frontend Engineer with **13+ years of experience** building high-performa
 
 <div align="center">
   
-  ![Bhavesh's GitHub Stats](  https://github-readme-stats.vercel.app/api?username=bhaveshshah&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+  <!-- ![Bhavesh's GitHub Stats](  https://github-readme-stats.vercel.app/api?username=bhaveshshah&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshshah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhaveshshah&theme=tokyonight&hide_border=true)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhaveshshah&theme=tokyonight&hide_border=true) -->
 
 </div>
 
